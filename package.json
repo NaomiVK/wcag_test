@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axe-core": "^4.10.3",
+    "puppeteer": "^24.10.2"
+  },
+  "name": "wcag_test",
+  "version": "1.0.0",
+  "main": "a11y_audit.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
